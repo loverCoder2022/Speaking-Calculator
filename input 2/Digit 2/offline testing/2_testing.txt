@@ -1,0 +1,183 @@
+-----------Offline Testing Result of Digit 2---------------
+
+
+-----------Ovserbation sequence : 1----------------
+
+Digit : 0 :: P = 7.47722e-124
+Digit : 1 :: P = 1.19897e-244
+Digit : 2 :: P = 6.65536e-050
+Digit : 3 :: P = 1.14312e-147
+Digit : 4 :: P = 5.0593e-133
+Digit : 5 :: P = 5.06475e-258
+Digit : 6 :: P = 0
+Digit : 7 :: P = 0
+Digit : 8 :: P = 7.09074e-300
+Digit : 9 :: P = 9.07363e-275
+
+Actual digit :: 2
+
+Recognized digit :: 2
+
+
+-----------Ovserbation sequence : 2----------------
+
+Digit : 0 :: P = 2.33255e-172
+Digit : 1 :: P = 4.84685e-151
+Digit : 2 :: P = 2.38911e-054
+Digit : 3 :: P = 2.48573e-125
+Digit : 4 :: P = 3.12979e-306
+Digit : 5 :: P = 3.84561e-182
+Digit : 6 :: P = 0
+Digit : 7 :: P = 0
+Digit : 8 :: P = 7.93699e-269
+Digit : 9 :: P = 1.72209e-145
+
+Actual digit :: 2
+
+Recognized digit :: 2
+
+
+-----------Ovserbation sequence : 3----------------
+
+Digit : 0 :: P = 3.18491e-161
+Digit : 1 :: P = 5.53659e-104
+Digit : 2 :: P = 3.80026e-081
+Digit : 3 :: P = 1.10412e-106
+Digit : 4 :: P = 7.278e-136
+Digit : 5 :: P = 1.098e-089
+Digit : 6 :: P = 0
+Digit : 7 :: P = 0
+Digit : 8 :: P = 5.02253e-108
+Digit : 9 :: P = 2.75411e-094
+
+Actual digit :: 2
+
+Recognized digit :: 2
+
+
+-----------Ovserbation sequence : 4----------------
+
+Digit : 0 :: P = 3.58426e-205
+Digit : 1 :: P = 7.09077e-258
+Digit : 2 :: P = 3.09433e-085
+Digit : 3 :: P = 9.82762e-145
+Digit : 4 :: P = 1.46255e-184
+Digit : 5 :: P = 0
+Digit : 6 :: P = 0
+Digit : 7 :: P = 0
+Digit : 8 :: P = 0
+Digit : 9 :: P = 1.6322e-314
+
+Actual digit :: 2
+
+Recognized digit :: 2
+
+
+-----------Ovserbation sequence : 5----------------
+
+Digit : 0 :: P = 4.24148e-151
+Digit : 1 :: P = 4.27268e-141
+Digit : 2 :: P = 1.39555e-071
+Digit : 3 :: P = 1.28164e-089
+Digit : 4 :: P = 7.5926e-206
+Digit : 5 :: P = 6.03246e-101
+Digit : 6 :: P = 1.10288e-221
+Digit : 7 :: P = 1.59088e-208
+Digit : 8 :: P = 1.17723e-089
+Digit : 9 :: P = 4.59306e-161
+
+Actual digit :: 2
+
+Recognized digit :: 2
+
+
+-----------Ovserbation sequence : 6----------------
+
+Digit : 0 :: P = 1.13536e-096
+Digit : 1 :: P = 1.77994e-159
+Digit : 2 :: P = 8.34172e-062
+Digit : 3 :: P = 3.34781e-161
+Digit : 4 :: P = 2.5421e-223
+Digit : 5 :: P = 7.27948e-254
+Digit : 6 :: P = 0
+Digit : 7 :: P = 0
+Digit : 8 :: P = 1.04082e-164
+Digit : 9 :: P = 1.02373e-224
+
+Actual digit :: 2
+
+Recognized digit :: 2
+
+
+-----------Ovserbation sequence : 7----------------
+
+Digit : 0 :: P = 2.05607e-118
+Digit : 1 :: P = 2.93475e-277
+Digit : 2 :: P = 2.31029e-051
+Digit : 3 :: P = 1.9315e-133
+Digit : 4 :: P = 3.68373e-083
+Digit : 5 :: P = 1.33794e-293
+Digit : 6 :: P = 0
+Digit : 7 :: P = 0
+Digit : 8 :: P = 0
+Digit : 9 :: P = 3.72138e-280
+
+Actual digit :: 2
+
+Recognized digit :: 2
+
+
+-----------Ovserbation sequence : 8----------------
+
+Digit : 0 :: P = 2.77406e-182
+Digit : 1 :: P = 4.18278e-159
+Digit : 2 :: P = 2.91714e-082
+Digit : 3 :: P = 2.40277e-182
+Digit : 4 :: P = 1.3681e-097
+Digit : 5 :: P = 1.69158e-226
+Digit : 6 :: P = 0
+Digit : 7 :: P = 0
+Digit : 8 :: P = 2.9536e-270
+Digit : 9 :: P = 3.84683e-168
+
+Actual digit :: 2
+
+Recognized digit :: 2
+
+
+-----------Ovserbation sequence : 9----------------
+
+Digit : 0 :: P = 1.67387e-117
+Digit : 1 :: P = 4.73428e-205
+Digit : 2 :: P = 1.53447e-058
+Digit : 3 :: P = 2.91462e-127
+Digit : 4 :: P = 2.70067e-310
+Digit : 5 :: P = 4.51041e-141
+Digit : 6 :: P = 0
+Digit : 7 :: P = 0
+Digit : 8 :: P = 1.80186e-153
+Digit : 9 :: P = 5.53279e-161
+
+Actual digit :: 2
+
+Recognized digit :: 2
+
+
+-----------Ovserbation sequence : 10----------------
+
+Digit : 0 :: P = 1.95085e-085
+Digit : 1 :: P = 1.68332e-152
+Digit : 2 :: P = 5.4045e-051
+Digit : 3 :: P = 1.14501e-174
+Digit : 4 :: P = 8.98886e-068
+Digit : 5 :: P = 4.47605e-226
+Digit : 6 :: P = 0
+Digit : 7 :: P = 0
+Digit : 8 :: P = 1.1454e-181
+Digit : 9 :: P = 1.30414e-160
+
+Actual digit :: 2
+
+Recognized digit :: 2
+
+Accuracy of the digit :: 2  =  100 %

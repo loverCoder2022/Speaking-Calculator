@@ -1,0 +1,183 @@
+-----------Offline Testing Result of Digit 9---------------
+
+
+-----------Ovserbation sequence : 1----------------
+
+Digit : 0 :: P = 9.76159e-258
+Digit : 1 :: P = 4.42452e-129
+Digit : 2 :: P = 9.44322e-265
+Digit : 3 :: P = 3.45256e-111
+Digit : 4 :: P = 2.29142e-160
+Digit : 5 :: P = 7.85204e-123
+Digit : 6 :: P = 2.95299e-165
+Digit : 7 :: P = 0
+Digit : 8 :: P = 9.15192e-085
+Digit : 9 :: P = 5.57285e-081
+
+Actual digit :: 9
+
+Recognized digit :: 9
+
+
+-----------Ovserbation sequence : 2----------------
+
+Digit : 0 :: P = 6.50947e-066
+Digit : 1 :: P = 1.58359e-059
+Digit : 2 :: P = 6.80222e-059
+Digit : 3 :: P = 8.83436e-071
+Digit : 4 :: P = 1.32223e-066
+Digit : 5 :: P = 1.3029e-090
+Digit : 6 :: P = 1.76897e-093
+Digit : 7 :: P = 4.60316e-060
+Digit : 8 :: P = 2.74773e-060
+Digit : 9 :: P = 5.24326e-050
+
+Actual digit :: 9
+
+Recognized digit :: 9
+
+
+-----------Ovserbation sequence : 3----------------
+
+Digit : 0 :: P = 1.72031e-068
+Digit : 1 :: P = 7.81808e-085
+Digit : 2 :: P = 9.25366e-075
+Digit : 3 :: P = 6.03205e-076
+Digit : 4 :: P = 1.09374e-072
+Digit : 5 :: P = 2.51411e-068
+Digit : 6 :: P = 1.58279e-099
+Digit : 7 :: P = 2.57828e-076
+Digit : 8 :: P = 1.77736e-074
+Digit : 9 :: P = 7.78296e-056
+
+Actual digit :: 9
+
+Recognized digit :: 9
+
+
+-----------Ovserbation sequence : 4----------------
+
+Digit : 0 :: P = 2.61772e-102
+Digit : 1 :: P = 3.27691e-192
+Digit : 2 :: P = 1.3567e-088
+Digit : 3 :: P = 4.48159e-098
+Digit : 4 :: P = 2.02732e-119
+Digit : 5 :: P = 4.21868e-084
+Digit : 6 :: P = 6.71067e-101
+Digit : 7 :: P = 1.31231e-228
+Digit : 8 :: P = 1.46177e-083
+Digit : 9 :: P = 2.16517e-074
+
+Actual digit :: 9
+
+Recognized digit :: 9
+
+
+-----------Ovserbation sequence : 5----------------
+
+Digit : 0 :: P = 7.15037e-069
+Digit : 1 :: P = 1.49922e-246
+Digit : 2 :: P = 6.65304e-089
+Digit : 3 :: P = 2.09161e-075
+Digit : 4 :: P = 3.59159e-225
+Digit : 5 :: P = 2.72926e-071
+Digit : 6 :: P = 3.24839e-079
+Digit : 7 :: P = 0
+Digit : 8 :: P = 5.66739e-073
+Digit : 9 :: P = 9.79121e-057
+
+Actual digit :: 9
+
+Recognized digit :: 9
+
+
+-----------Ovserbation sequence : 6----------------
+
+Digit : 0 :: P = 4.94268e-110
+Digit : 1 :: P = 0
+Digit : 2 :: P = 4.05468e-090
+Digit : 3 :: P = 1.26318e-106
+Digit : 4 :: P = 5.22563e-218
+Digit : 5 :: P = 4.3051e-082
+Digit : 6 :: P = 9.31744e-149
+Digit : 7 :: P = 0
+Digit : 8 :: P = 1.93001e-087
+Digit : 9 :: P = 1.70856e-069
+
+Actual digit :: 9
+
+Recognized digit :: 9
+
+
+-----------Ovserbation sequence : 7----------------
+
+Digit : 0 :: P = 8.22107e-066
+Digit : 1 :: P = 7.30297e-231
+Digit : 2 :: P = 2.77838e-097
+Digit : 3 :: P = 4.75944e-106
+Digit : 4 :: P = 3.93472e-103
+Digit : 5 :: P = 1.35784e-089
+Digit : 6 :: P = 8.34985e-073
+Digit : 7 :: P = 1.33269e-247
+Digit : 8 :: P = 4.4469e-093
+Digit : 9 :: P = 1.71448e-053
+
+Actual digit :: 9
+
+Recognized digit :: 9
+
+
+-----------Ovserbation sequence : 8----------------
+
+Digit : 0 :: P = 2.43651e-052
+Digit : 1 :: P = 2.02872e-037
+Digit : 2 :: P = 1.02106e-039
+Digit : 3 :: P = 2.65714e-054
+Digit : 4 :: P = 1.23272e-053
+Digit : 5 :: P = 1.35771e-037
+Digit : 6 :: P = 4.09515e-054
+Digit : 7 :: P = 4.06087e-064
+Digit : 8 :: P = 4.89342e-052
+Digit : 9 :: P = 1.29707e-039
+
+Actual digit :: 9
+
+Recognized digit :: 1
+
+
+-----------Ovserbation sequence : 9----------------
+
+Digit : 0 :: P = 7.55558e-161
+Digit : 1 :: P = 1.03146e-103
+Digit : 2 :: P = 1.13651e-211
+Digit : 3 :: P = 2.57175e-127
+Digit : 4 :: P = 9.76899e-121
+Digit : 5 :: P = 9.55717e-215
+Digit : 6 :: P = 6.20902e-214
+Digit : 7 :: P = 1.76484e-249
+Digit : 8 :: P = 9.46666e-113
+Digit : 9 :: P = 1.74498e-066
+
+Actual digit :: 9
+
+Recognized digit :: 9
+
+
+-----------Ovserbation sequence : 10----------------
+
+Digit : 0 :: P = 1.14395e-081
+Digit : 1 :: P = 2.93501e-305
+Digit : 2 :: P = 2.49987e-139
+Digit : 3 :: P = 5.2564e-102
+Digit : 4 :: P = 1.18444e-128
+Digit : 5 :: P = 3.24976e-134
+Digit : 6 :: P = 3.44859e-158
+Digit : 7 :: P = 0
+Digit : 8 :: P = 7.61053e-084
+Digit : 9 :: P = 5.76971e-067
+
+Actual digit :: 9
+
+Recognized digit :: 9
+
+Accuracy of the digit :: 9  =  90 %
